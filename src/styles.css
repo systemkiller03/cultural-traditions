@@ -615,7 +615,7 @@ iframe:focus-visible {
 }
 
 .simple-table {
-  padding: 0;
+  padding: 10px;
 }
 
 .banner-panel {
@@ -729,7 +729,6 @@ iframe:focus-visible {
   .project-grid {
     grid-template-columns: 1fr;
   }
-
   .culture-table,
   .culture-table thead,
   .culture-table tbody,
