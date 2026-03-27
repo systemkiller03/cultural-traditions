@@ -1,0 +1,11 @@
+.theme-japan {
+  --page-bg: #ffffff;
+  --page-surface: #ffffff;
+  --page-surface-soft: #faf5f6;
+  --page-border: #1d1d1d;
+  --page-text: #1d1d1d;
+  --page-muted: #4b4b4b;
+  --page-primary: #e60026;
+  --page-accent: #ffffff;
+  --focus-color: #e60026;
+}

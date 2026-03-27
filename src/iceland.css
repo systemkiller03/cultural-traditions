@@ -1,0 +1,11 @@
+.theme-iceland {
+  --page-bg: #ffffff;
+  --page-surface: #ffffff;
+  --page-surface-soft: #f3f6fa;
+  --page-border: #1d1d1d;
+  --page-text: #1d1d1d;
+  --page-muted: #4b4b4b;
+  --page-primary: #1e3a5f;
+  --page-accent: #ffffff;
+  --focus-color: #1e3a5f;
+}
